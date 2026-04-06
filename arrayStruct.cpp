@@ -16,3 +16,7 @@ struct orang
     detailAlamat alamat;
     int umur;
 };
+
+int main() {
+
+}
