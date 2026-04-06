@@ -8,3 +8,11 @@ struct detailAlamat
     string desa;
     string kota;
 };
+
+// struct orang
+struct orang 
+{
+    string nama;
+    detailAlamat alamat;
+    int umur;
+};
